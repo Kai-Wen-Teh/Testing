@@ -166,4 +166,8 @@ def area(i):
     
 area(s)
 
+def addtwonumbers(a, b):
+    return a + b
+print("The sum is ", addtwonumbers(1,2))
+
 
